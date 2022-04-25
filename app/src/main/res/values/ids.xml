@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="frameFirst" type="id" />
+    <item name="frameSecond" type="id" />
+    <item name="viewpager" type="id" />
+    <item name="tab_layout" type="id" />
+</resources>
