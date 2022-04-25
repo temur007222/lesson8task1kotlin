@@ -18,6 +18,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:name=".Activities.RunTimeActivity" />
+        <activity
+            android:name=".Activities.ViewPagerActivity" />
+        <activity
+            android:name=".Activities.FragmentActivity" />
     </application>
 
 </manifest>

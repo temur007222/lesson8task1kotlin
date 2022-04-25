@@ -4,4 +4,6 @@
     <item name="frameSecond" type="id" />
     <item name="viewpager" type="id" />
     <item name="tab_layout" type="id" />
+    <item name="tv_home" type="id" />
+    <item name="b_detail" type="id" />
 </resources>
